@@ -1,0 +1,12 @@
+thead{
+    background-color: #7e38ed;
+    color: white;
+    border: 4px;
+  }
+  
+  td{
+    border-style: none;
+  }
+  tr:nth-child(even){
+    background-color: #cdb8eca7;
+  }

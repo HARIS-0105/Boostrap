@@ -1,0 +1,22 @@
+.col-container{
+    padding: 0%;
+}
+.col{
+    margin: 5px;
+    height: 11rem;
+}
+.row1 .col{
+    background-color: rgba(255, 192, 203, 0.884); 
+}
+.row2 .col{
+    background-color: #ee2e84;
+}
+.row3 .col{
+    background-color: #13b6e4 ;
+}
+.row4 .col{
+    background-color: #2bda1b ;
+}
+.row4 .col-or {
+    background-color: #e17815;
+}

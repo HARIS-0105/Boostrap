@@ -1,0 +1,24 @@
+body {
+    height: 100%;
+    background-image: linear-gradient(to bottom right, rgb(17, 81, 233), rgb(13, 187, 197));
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+  }
+  .main{
+    width: 450px;
+    margin: 10% auto;
+    border-radius: 4px;
+    padding: 2.5rem;
+    background-color: white;
+  }
+  .button {
+    background-color: rgb(7, 20, 193); 
+    color: white;
+    border: rgba(43, 49, 235, 0.932);
+    border-radius: 4px;
+    padding: 10px 30px;
+    text-align: center;
+    text-decoration:solid;
+    display: inline-block;
+    font-size: 12px;
+  }
